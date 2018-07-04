@@ -1,6 +1,5 @@
-days:
-  pump: 
-    - Monday
-    - Tuesday
-    - Wednesday
-    - Friday
+{
+  "pump": {
+    "days": ["Monday", "Tuesday", "Wednesday", "Friday"]
+  }
+}
