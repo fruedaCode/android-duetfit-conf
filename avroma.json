@@ -2,6 +2,9 @@
   "pump": {
     "days": ["Monday", "Tuesday", "Wednesday", "Friday"]
   },
+  "combat": {
+    "days": ["Monday", "Tuesday", "Thursday"]
+  },
   "gap": {
     "days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
   },
