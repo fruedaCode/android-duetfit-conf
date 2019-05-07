@@ -1,0 +1,14 @@
+{
+  "pump": {
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+  },
+  "combat": {
+    "days": ["Monday", "Tuesday", "Thursday"]
+  },
+  "gap": {
+    "days": ["Monday", "Tuesday"]
+  },
+  "yoga": {
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"]
+  }
+}
